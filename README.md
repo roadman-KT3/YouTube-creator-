@@ -9,8 +9,8 @@ It provides pie charts to see her best earning video, A line graph to compare qu
 
 ## Reason
 -Identifying her market niche to target. 
--Aid in seeing most views to be attained on a particular video. 
--Also to see how best to maximize revenue on such works and ways to maximize her interactions on the app.
+  -Aid in seeing most views to be attained on a particular video. 
+    -Also to see how best to maximize revenue on such works and ways to maximize her interactions on the app.
 
 # Packages 
 - Numpy 
